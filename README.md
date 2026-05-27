@@ -101,7 +101,7 @@
 <br/>
 
 ```
-> Sistema online. Disponível para oportunidades. _
+> Dev cuiudo. _
 ```
 
 </div>
