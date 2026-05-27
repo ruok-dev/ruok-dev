@@ -7,7 +7,7 @@
 **Cloud, Infra & DevOps**
 
 <a href="https://gitlab.com/thiago.java">
-  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=#ff0000" />
 </a>
 
 <br/><br/>
