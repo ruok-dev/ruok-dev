@@ -96,7 +96,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolopes-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=thiagolopes.aws@gmail.com)
-[![X](https://img.shields.io/badge/X(twitter)-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://x.com/ruok_dev)
+[![X](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://x.com/ruok_dev)
 
 <br/>
 
