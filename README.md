@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/in.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagolopes-dev)
+[![LinkedIn](https://img.shields.io/badge/in.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-mohi)
 [![Email](https://img.shields.io/badge/Mail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=thiagolopes.aws@gmail.com)
 [![X](https://img.shields.io/badge/X.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://x.com/ruok_dev)
 
