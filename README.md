@@ -7,7 +7,7 @@
 **IA, IoT & tech**
 
 <a href="https://mohi.com.br">
-  <img src="https://img.shields.io/badge/ـــــــــــــــMOHIـــــــــــــــ-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000" />
+  <img src="https://img.shields.io/badge/ــــMOHIـــ-ff0000?style=for-the-badge&labelColor=ff0000&color=ff0000" />
 </a>
 
 <br/><br/>
