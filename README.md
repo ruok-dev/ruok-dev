@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**IA, IoT & Development**
+**IA, IoT & tech**
 
 <a href="https://mohi.com.br">
   <img src="https://img.shields.io/badge/MOHI-ff0000?style=for-the-badge&logoColor=white&labelColor=ff0000" />
