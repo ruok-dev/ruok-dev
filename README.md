@@ -4,10 +4,10 @@
 
 <div align="center">
 
-**Cloud, Infra & DevOps**
+**IA, IoT & Development**
 
-<a href="https://gitlab.com/thiago.java">
-  <img src="https://img.shields.io/badge/Acessar%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<a href="https://mohi.com.br">
+  <img src="https://img.shields.io/badge/MOHI-ff0000?style=for-the-badge&logoColor=white&labelColor=ff0000" />
 </a>
 
 <br/><br/>
