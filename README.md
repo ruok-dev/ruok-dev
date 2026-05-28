@@ -24,7 +24,7 @@
 
 > Monitor de bateria e rede elétrica no terminal, com detecção de quedas e oscilações.
 
-`Node.js` `Express` `PostgreSQL` `Docker` `JWT`
+`Python` `Linux` `Curses` `Psutil` `TUI`
 
 [![Hello World](https://img.shields.io/badge/%3C%2F_Hello_World_%3E-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruok-dev/GT-v3)
 
