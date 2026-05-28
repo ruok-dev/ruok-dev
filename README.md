@@ -20,7 +20,7 @@
 
 <br/>
 
-### ◆ &nbsp;[`project-01`] &nbsp;**GT-V3 — Monitor de energia**
+### ◆ &nbsp;[`project-01`] &nbsp;**GT-V3 — Monitor de Energia**
 
 > Monitor de bateria e rede elétrica no terminal, com detecção de quedas e oscilações.
 
